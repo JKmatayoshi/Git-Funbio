@@ -1,21 +1,16 @@
-# Proyecto de Ingeniería Biomédica - Sistema de Monitoreo de Signos Vitales
+# Proyecto de Ingeniería Biomédica - Tema: Lesiones medulares
 
 Este proyecto forma parte de un curso de Ingeniería Biomédica y tiene como objetivo el diseño y desarrollo de un sistema de monitoreo de signos vitales en tiempo real. El sistema utiliza sensores biomédicos para capturar datos de variables como la frecuencia cardiaca, la presión arterial y la saturación de oxígeno. Los datos serán procesados y visualizados en una interfaz gráfica de usuario (GUI) para facilitar el monitoreo de los pacientes.
 
 ## Descripción
 
-En este proyecto se busca desarrollar una plataforma que permita el monitoreo constante y en tiempo real de los signos vitales de los pacientes, con el fin de mejorar la calidad del cuidado de la salud. El sistema tendrá las siguientes funcionalidades principales:
-
-- Adquisición de datos en tiempo real de sensores biomédicos.
-- Visualización gráfica y en tiempo real de los signos vitales.
-- Almacenamiento de datos históricos para su análisis posterior.
-- Alertas y notificaciones en caso de que los signos vitales se encuentren fuera de los rangos normales.
+Este proyecto se centra en el desarrollo de un sistema para el diagnóstico y tratamiento de lesiones modulares. A lo largo del semestre, el equipo trabajará en mejorar la precisión en la detección de las lesiones, optimizar la integración de sensores biomédicos y desarrollar una interfaz de usuario intuitiva. Además, se enfocarán en perfeccionar el análisis de datos para un seguimiento más efectivo de la recuperación de los pacientes. El objetivo es avanzar en cada fase del proyecto, asegurando la fiabilidad y eficiencia del sistema propuesto.
 
 ## Objetivos
 
-- Diseñar una solución eficiente para la adquisición de datos biomédicos.
-- Desarrollar una interfaz amigable y funcional para la visualización de datos.
-- Implementar un sistema que sea capaz de generar alertas automáticas.
+- Investigar sobre lesiones modulares
+- Diseñar un prototipo de sistema de monitoreo
+- Desarrollar una interfaz de usuario intuitiva
 
 ## Tecnologías utilizadas
 
