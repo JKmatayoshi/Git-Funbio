@@ -29,11 +29,12 @@ En este proyecto se busca desarrollar una plataforma que permita el monitoreo co
 
 | Integrante         | Rol                          |
 |--------------------|------------------------------|
-| Juan Pérez         | Líder del proyecto, Programador Principal |
-| Ana Gómez          | Ingeniera de Hardware, Encargada de los Sensores |
-| Luis Rodríguez     | Desarrollador Backend, Encargado de la base de datos |
-| María Fernández    | Diseñadora de la Interfaz Gráfica |
-| Carlos Torres      | Ingeniero de Software, Encargado de la comunicación entre dispositivos |
+| Sebastián Pérez         | Líder del proyecto, Programador Principal |
+| Jair Lugo          | Ingeniera de Hardware, Encargada de los Sensores |
+| Jesús Martinez   | Desarrollador Backend, Encargado de la base de datos |
+| Abigail Vasco    | Diseñadora de la Interfaz Gráfica |
+
+
 
 ## Instrucciones de uso
 
