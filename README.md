@@ -28,7 +28,7 @@ Este proyecto se centra en el desarrollo de un sistema para el diagnóstico y tr
 | Jair Lugo          | Ingeniera de Hardware, Encargada de los Sensores |
 | Jesús Martinez   | Desarrollador Backend, Encargado de la base de datos |
 | Abigail Vasco    | Diseñadora de la Interfaz Gráfica |
-
+| Luis Mayo        | Desarrollador de software e investigador |
 
 
 ## Instrucciones de uso
