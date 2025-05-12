@@ -24,11 +24,11 @@ Este proyecto se centra en el desarrollo de un sistema para el diagnóstico y tr
 
 | Integrante         | Rol                          |
 |--------------------|------------------------------|
-| Jair Lugo        | Líder del proyecto, Programador Principal |
-| Sebastián Pérez  | Ingeniera de Hardware, Encargada de los Sensores |
-| Jesús Martinez   | Desarrollador Backend, Encargado de la base de datos |
-| Abigail Vasco    | Diseñadora de la Interfaz Gráfica |
-| Gabriel Mayo     | Desarrollador de software e investigador |
+| Jair Lugo        | Coordinaron General y de Prototipado |
+| Sebastián Pérez  | Coordinador de Electrónica |
+| Jesús Martinez   | Coordinador de Investigación y Producción Digital |
+| Abigail Vasco    | Coordinadora de Diseño |
+| Gabriel Mayo     | Coordinador de Programación |
 
 
 ## Instrucciones de uso
