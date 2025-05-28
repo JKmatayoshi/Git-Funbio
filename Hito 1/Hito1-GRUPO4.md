@@ -1,40 +1,42 @@
-﻿![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.001.png)
+﻿![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.001.png)
 
-**PressSure![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.002.jpeg)**
+**PressSure![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.002.png)**
 
-- Jair Lugo 
+- Jair Lugo
 - Luis Mayo
 - Miguel Martinez
 - Sebastián Perez
 - Valentina Vasco
 
-` `**Análisis del Caso [1]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.003.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.004.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.005.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.006.png)**
+` `**Análisis del Caso [1]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.003.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.004.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.005.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.006.png)**
 
-**[2][3]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.007.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.008.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.009.png)**
+**[1] ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.007.png)**
 
-` `**Análisis del Caso ![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.010.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.011.png)**
+**[2][3] ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.008.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.009.png)**
+
+` `**Análisis del Caso ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.010.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.011.png)**
 
 
 
 |**Limitaciones** |**y Necesidades funcionales**|
 | - | - |
 |||
-󰣰 recobrar independencia en AVD. ![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.012.png)
+󰣰 recobrar independencia en AVD. ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.012.png)
 
-🦽 movilidad muy reducida. ![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.013.png)
+🦽 movilidad muy reducida. ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.013.png)
 
-🧠 apoyo psicosocial por impacto de la discapacidad. ![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.014.png)⚠  prevenir complicaciones. ![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.015.png)
+🧠 apoyo psicosocial por impacto de la discapacidad. ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.014.png)⚠  prevenir complicaciones. ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.015.png)
 
-` `**Análisis del Caso![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.016.png)**
+` `**Análisis del Caso![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.016.png)**
 
-**Prevención de úlceras por presión ![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.017.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.018.png)**
+**Prevención de úlceras por presión ![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.017.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.018.png)**
 
 Zonas vulnerables: sacro, talones, glúteos, omóplatos
 
 
-**COJÍN DE SOPORTE** [5]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.019.png)
+**COJÍN DE SOPORTE** [5]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.019.png)
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.020.jpeg)
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.020.jpeg)
 
 - Red  de  sensores  distribuidos 
 
@@ -47,7 +49,7 @@ Zonas vulnerables: sacro, talones, glúteos, omóplatos
 
 **DISPOSITIVO  DE  PRESIÓN ALTERNANTE CON REGULACIÓN DE TEMPERATURA Y HUMEDAD** [4]
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.021.png)
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.021.png)
 
 Incorpora sensores integrados de presión para ajustar automáticamente el inflado de las celdas
 
@@ -55,16 +57,16 @@ Estructura  de  múltiples  celdas  de  aire interconectadas  que  pueden  infla
 
 Superficie  adaptable  para uso en camas y sillas [6]
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.022.png)
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.022.png)
 
 - Sensores  inteligentes  miden  presión en tiempo real para detectar zonas de riesgo en el cuerpo.
 - Unidades  ajustables  (vejigas  o pasadores)  elevan  o  bajan automáticamente  para  redistribuir presión.
 - Controlador adaptativo compara datos con umbrales y optimiza la superficie cada 2-5 segundos.
 - Integración médica permite monitoreo y  tratamiento  sin  mover  al  paciente, previniendo úlceras.
 
-**Cojín ROHO Hybrid Select[7] Cojín JAY Balance[8]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.023.png)**
+**Cojín ROHO Hybrid Select[7] Cojín JAY Balance[8]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.023.png)**
 
-` `![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.024.jpeg)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.025.png)
+` `![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.024.jpeg)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.025.png)
 
 - Espuma  contorneada  y  una  capa celular superpuesta llena de aire ● Cuñas de posicionamiento
 - Celdas de aire independientes ● Base  de  espuma  contorneada 
@@ -77,38 +79,41 @@ Estructura  de  múltiples  celdas  de  aire interconectadas  que  pueden  infla
 
 **Flo-Tech Image[9]**
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.026.jpeg)
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.026.jpeg)
 
 - Amplia  sección  de  gel  en  la zona del sacro
 - Espuma de alta resistencia que ofrece  altos  niveles  de reducción de presiones
 - Sección  de  gel  de  silicona líquida termosensible mantiene su consistencia y viscosidad sin importar  la  temperatura corporal o ambiental
 
-**DISEÑO DE COJÍN PARA SILLAS![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.027.png)**
+**DISEÑO DE COJÍN PARA SILLAS![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.027.png)**
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.028.png)
-
-**Paper:  Design  of  a  custom  sensing  and actuating cushion for use in pressure relief in wheelchair users [10]**
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.028.png)
 
 **PROTOTIPO DE SILLA CON DETECCIÓN  POSTURAL**
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.029.jpeg)
-
-**Paper: Posture Detection Based on Smart Cushion for Wheelchair Users [11]**
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.029.jpeg)
 
 **SMART MAT**
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.030.png)
+![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.030.png)
 
-**Paper: Smart Mat Used for Prevention of Hospital-Acquired Pressure Injuries [12]**
+**Paper:  Design  of  a  custom  sensing  and  Paper: Posture Detection Based on Smart actuating cushion for use in pressure relief in  Cushion for Wheelchair Users [11] wheelchair users [10]** ● Detección de presión distribuida
 
-- Matriz de sensores FSR.
-- Vejigas  neumáticas  de  ●● Detección de presión distribuidaProcesamiento embebido. ● Detección peso mediante sensores FSR.de  distribución  del poliuretano. ● Módulo de Bluetooth conectado 
-- Sistema  de  control  basado  en  ● Visualización de datos en una arduino 1. a un periférico digital. PC.
-- existentes,  puede  usarse  ● un  algoritmo  de  árbol  de  ●● Predicción de postura. Integración  de  materiales  pre  Detección de postura gracias a  Estructura Ligera y portátil.
+- Matriz de sensores FSR. ● Procesamiento embebido.
+- Vejigas  neumáticas  de  ● Módulo de Bluetooth conectado poliuretano. a un periférico digital.
+- Sistema  de  control  basado  en  ● Detección de postura gracias a arduino 1. un  algoritmo  de  árbol  de 
+- Integración  de  materiales  pre  decisión con 5 posturas. existentes,  puede  usarse 
 
-  espuma comercial. decisión con 5 posturas.
+  espuma comercial.
 
-**Metodología VDI![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.031.png)**
+**Paper: Smart Mat Used for Prevention of Hospital-Acquired Pressure Injuries [12]**
+
+- Detección  de  distribución  del peso mediante sensores FSR.
+- Visualización de datos en una PC.
+- Estructura Ligera y portátil.
+- Predicción de postura.
+
+**Metodología VDI![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.031.png)**
 
 **Requerimientos Funcionales**
 
@@ -126,15 +131,19 @@ Estructura  de  múltiples  celdas  de  aire interconectadas  que  pueden  infla
 1. **Autonomía energética**
 1. **Resistencia de materiales**
 
-![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.032.png)
+**Caja negra![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.032.png)**
 
-**Matriz morfológica![ref1]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.034.jpeg)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.035.png)**
+sensores![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.033.jpeg)
 
-**Tabla de evaluación![ref1]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.036.png)**
+**Esquema de funciones![ref1]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.035.jpeg)**
 
-**BOCETOS![ref1]![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.037.jpeg)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.038.jpeg)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.039.jpeg)**
+**Matriz morfológica![ref1]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.036.jpeg)**
 
-**Conclusiones![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.040.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.041.png)![](Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.042.png)**
+**Tabla de evaluación![ref1]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.037.png)**
+
+**BOCETOS![ref1]![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.038.jpeg)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.039.jpeg)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.040.jpeg)**
+
+**Conclusiones![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.041.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.042.png)![](Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.043.png)**
 
 **Referencias Bibliográficas**
 
@@ -153,4 +162,4 @@ Estructura  de  múltiples  celdas  de  aire interconectadas  que  pueden  infla
 7. C. Ma, W. Li, R. Gravina y G. Fortino, "Posture Detection Based on Smart Cushion for Wheelchair Users," Sensors, vol. 17, n.º 4, art. 719, 29 de marzo de 2017, doi: [10.3390/s17040719.](https://www.mdpi.com/1424-8220/17/4/719)
 7. L. Gao y Z. Lin, "Smart Mat Used for Prevention of Hospital-Acquired Pressure Injuries," arXiv preprint arXiv:2207.03643, 8 de julio de 2022. [En línea]. Disponible en: <https://arxiv.org/abs/2207.03643>.
 
-[ref1]: Aspose.Words.183f9f86-b153-4d51-ac58-a2c6187a7012.033.png
+[ref1]: Aspose.Words.fecab413-6cef-4dea-833b-9ff826058afa.034.png
