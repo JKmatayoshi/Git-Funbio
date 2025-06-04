@@ -2,7 +2,7 @@
 
 \# Diagrama o Esquema Electrónico del concepto de solución
 
-![esquema electronico][C:\Users\Lenovo\Documents\markdow\esquema mardown.png]
+![esquema electronico](C:\Users\Lenovo\Documents\markdow\esquema mardown.png)
 
 \#
 
@@ -10,33 +10,33 @@
 
 Cojín (tapa superior e inferior)
 
-![cojin ][C:\Users\Lenovo\Documents\markdow\mardown imagen 1.png]
+![cojin ](C:\Users\Lenovo\Documents\markdow\mardown imagen 1.png)
 
 Celda
 
-![eldas ][C:\Users\Lenovo\Documents\markdow\mardown imagen 2.png]
+![eldas ](C:\Users\Lenovo\Documents\markdow\mardown imagen 2.png)
 
 Arduino Nano
 
-![arduino nano][C:\Users\Lenovo\Documents\markdow\mardow imagen 3.png]
+![arduino nano](C:\Users\Lenovo\Documents\markdow\mardow imagen 3.png)
 
 Válvula solenoide
 
-\# ![valvula][C:\Users\Lenovo\Documents\markdow\mardown imagen 4.png]
+\# ![valvula](C:\Users\Lenovo\Documents\markdow\mardown imagen 4.png)
 
 Fsr 402
 
-![sensor][C:\Users\Lenovo\Documents\markdow\mardow imagen 5.png]
+![sensor](C:\Users\Lenovo\Documents\markdow\mardow imagen 5.png)
 
 MIni Bomba de aire
 
-![bomba][C:\Users\Lenovo\Documents\markdow\mardow imagen 6.png]
+![bomba](C:\Users\Lenovo\Documents\markdow\mardow imagen 6.png)
 
 \# https://cad.onshape.com/documents/757166445e96733e89d5b775/w/1a60250978715da6d96c4549/e/4020941a4aa34aa6c1722cba?renderMode=0\&uiState=683fc74e0496457e6062aaa7
 
 \#  Plan de usabilidad
 
-![usabilidad][C:\Users\Lenovo\Documents\markdow\usabilidad.png]
+![usabilidad](C:\Users\Lenovo\Documents\markdow\usabilidad.png)
 
 \*\*Referencias bibliográficas\*\*
 
