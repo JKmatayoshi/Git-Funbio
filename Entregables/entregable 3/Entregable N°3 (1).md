@@ -74,23 +74,11 @@ Por último, este tipo de lesión tiene un impacto significativo en la calidad d
   **Artrodesis vertebral:** En este procedimiento quirúrgico, el cirujano usará un injerto (como hueso) para sostener (o fusionar) los huesos en la columna vertebral permanentemente. Se para que no haya movimiento entre ellos ni estrechamiento de la columna vertebral lo que provoca presión sobre la médula espinal\[17\].
 
 
-  
-
-
-  
-
-
   * Rehabilitación y Terapia
 
     La rehabilitación temprana se inició tras estabilizar su condición neurológica. La paciente recibió fisioterapia temprana, orientada a prevenir contracturas musculares, conservar la movilidad articular y mejorar la circulación. Estas terapias suelen comenzar en la unidad de cuidados intensivos (UCI) dentro de las primeras 48 a 72 horas tras la lesión si el paciente está clínicamente estable \[18\].  
     El abordaje se complementa con terapia ocupacional, que se enfoca en maximizar la independencia en actividades cotidianas (alimentación, vestimenta, higiene personal) mediante ejercicios específicos y el entrenamiento en el uso de ayudas técnicas adaptadas al entorno del paciente \[19\].  
     Además, se implementaron medidas para la adaptación del entorno domiciliario: se recomendaron ajustes arquitectónicos como rampas, pasamanos y la adecuación del baño para garantizar accesibilidad, seguridad y autonomía dentro del hogar, con base en evaluaciones ergonómicas realizadas por el equipo terapéutico \[20\].
-
-    
-
-    
-
-  
 
 
   * Tecnologías de apoyo y dispositivos médicos
@@ -131,20 +119,20 @@ La elección adecuada de estas tecnologías debe basarse en una evaluación indi
 
 El modelo de utilidad presenta un **andador funcional para personas con lesiones medulares**, diseñado para facilitar la rehabilitación. Está compuesto por **dos cuerpos principales** conectados por **bielas fijas**, patas de apoyo **ajustables** con **placas antideslizantes**, y mecanismos que permiten **modificar la altura mediante motores**, lo que facilita subir y bajar escaleras. El andador también incluye una **placa de soporte giratoria** para que el usuario pueda descansar, así como un **sistema de ruedas y engranajes** que permite cambiar el modo de uso del dispositivo, posibilitando una **marcha funcional y versátil** \[26\]. 
 
-![][image1]
+![][https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.png]
 
 ***Neuroórtesis de agarre manual portátil y usable***          
 
 Dispositivo portátil de neuroórtesis que permite a personas con lesión medular cervical recuperar el control voluntario del agarre manual mediante una manga con electrodos, lectura de EMG y estimulación eléctrica funcional (EEF). El sistema se monta en una silla de ruedas e incluye un controlador con pantalla para el usuario \[27\].  
 
 
-![][image2]
+![][https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.1.png]
 
   ***Ortesis para caminar en caso de lesión de la médula espinal***
 
 El modelo de utilidad describe un aparato ortopédico para caminar destinado a personas con lesión medular. Está compuesto por soportes para las piernas conectados a una estructura que se fija al pecho y la cintura del usuario. Un mecanismo de conexión y pivote permite que el movimiento del tronco, especialmente desde la zona lumbar y los músculos iliopsoas, genere impulso para caminar. Este diseño facilita el movimiento, ahorra esfuerzo y proporciona estabilidad, siendo adecuado incluso para lesiones medulares altas \[28\]. 
 
-*![][image3]*
+*![][https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.2.png]*
 
 * Enfoque Psicosociales  
   Lesión Medular (asesoramiento psicológico, red de apoyo social)
@@ -157,8 +145,6 @@ El modelo de utilidad describe un aparato ortopédico para caminar destinado a p
   A través de programas de rehabilitación ocupacional, se trabaja en mejorar las habilidades sociales y en facilitar la reinserción en actividades laborales o académicas, promoviendo una mayor independencia y participación activa en la comunidad. \[24\]
 
   
-
-
 **Bibliografía**
 
 \[1\] Stanford Medicine Children's Health, "Lesión de la médula espinal," Stanford Children's Health, \[En línea\]. Disponible en: [https://www.stanfordchildrens.org/es/topic/default?id=spinal-cord-injury-85-P04278](https://www.stanfordchildrens.org/es/topic/default?id=spinal-cord-injury-85-P04278)
