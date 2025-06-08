@@ -53,17 +53,25 @@ con lesión medular alta.
 **Ventajas:**
 
 ○ Diseñado específicamente para personas con tetraplejia alta (incluyendo nivel C3).
+
 ○ Estructura blanda que se adapta anatómicamente a la mano y reduce el riesgo de presión o lesiones.
+
 ○ Compatible con interruptores accesibles para usuarios con movilidad limitada en extremidades superiores.
+
 ○ Mejora la funcionalidad de agarre en tareas de la vida diaria con bajo esfuerzo físico.
+
 ○ Alta aceptación por parte de los usuarios en estudios de caso clínico.
 
 **Desventajas:**
 
 ○ Todavía en fase de investigación, no está ampliamente disponible comercialmente.
+
 ○ Capacidad de fuerza limitada comparado con dispositivos rígidos.
+
 ○ Requiere calibración individual y asistencia inicial en la colocación.
+
 ○ No apto para tareas que requieran fuerza de agarre intensa o prolongada.
+
 ○ Dependencia de una fuente neumática externa
 
 ***Dispositivo ortopédico motorizado***
@@ -103,7 +111,9 @@ del sistema.
 Aplicaciones típicas:
 
 ● Rehabilitación postoperatoria o tras una lesión.
+
 ● Ayuda al movimiento en personas con debilidad muscular o parálisis parcial.
+
 ● Mejora de la función motora en terapias neuromusculares.
 
 ![](https://github.com/JKmatayoshi/Git-Funbio/blob/de17f66ff506d6053df875def965ec3b6c14598a/Documentacion/Multimedia/E6.1.png)
@@ -113,14 +123,19 @@ Aplicaciones típicas:
 Ventajas:
 
 ○ Asistencia activa al movimiento usando señales musculares (EMG) incluso si es limitado.
+
 ○ Portátil y adaptable.
+
 ○ Control personalizable.
+
 ○ Incluye bloqueo de articulaciones, ajuste de fuerza y comunicación inalámbrica.
 
 Desventajas:
 
 ○ Dependencia de señal muscular.
+
 ○ Movilidad limitada de la mano.
+
 ○ Complejidad mecánica.
 
 Reflexión:
@@ -185,17 +200,20 @@ movilidad limitada.
 
 Ventajas:
 
-○ Mejora significativamente la capacidad de agarre, especialmente para usuarios con
-movilidad limitada en los dedos, ayudando en tareas diarias.
-○ Sin necesidad de botones o interfaces complicadas ya que detecta la
-extensión/flexión de la muñeca como señal de control.
+○ Mejora significativamente la capacidad de agarre, especialmente para usuarios con movilidad limitada en los dedos, ayudando en tareas diarias.
+
+○ Sin necesidad de botones o interfaces complicadas ya que detecta la extensión/flexión de la muñeca como señal de control.
+
 ○ Diseño adaptable.
+
 ○ Componentes accesibles y de bajo costo
 
 Desventajas:
 
 ○ Dependencia de componentes externos voluminosos que limitan la portabilidad.
+
 ○ Falta de retroalimentación háptica o sensorial que informe al usuario sobre su avance.
+
 ○ Tiempo de respuesta limitado.
 
 Reflexión:
@@ -380,15 +398,21 @@ invasivo podría facilitar tratamientos ambulatorios o domiciliarios en el futur
 **Ventajas:**
 
 ○ Estimulación no invasiva del nervio vago con aplicaciones múltiples.
+
 ○ Mejora la función autonómica y potencialmente la movilidad.
+
 ○ Puede aplicarse en casa con supervisión remota.
+
 ○ Aprobado para otras patologías como migrañas o epilepsia.
 
 **Desventajas:**
 
 ○ La colocación incorrecta disminuye la eficacia.
+
 ○ No está validado específicamente para lesión medular.
+
 ○ Necesita evaluación individualizada.
+
 ○ Riesgo de efectos adversos si se usa incorrectamente.
 
 **RU2456034C1 – Método Integrado No Invasivo para el**
@@ -442,15 +466,21 @@ comercialización.
 ● **Ventajas:**
 
 ○ Combina técnicas no invasivas para tratamiento integral.
+
 ○ Fomenta la regeneración de tejidos sin intervención quirúrgica.
+
 ○ Puede aplicarse en clínica de rehabilitación sin equipamiento complejo.
+
 ○ Aborda el dolor y la movilidad simultáneamente.
 
 ● **Desventajas:**
 
 ○ Terapia compleja que requiere varias sesiones.
+
 ○ Falta de datos independientes que respalden su eficacia.
+
 ○ Difícil replicación del protocolo fuera del entorno original.
+
 ○ Posible resistencia por parte del personal médico tradicional.
 
 
