@@ -81,7 +81,7 @@ Ahora, como el nivel sensitivo es C3 y hay fuerza de mínimo grado 3 en C5 , el 
 
 ![](https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.png)\[4\]
 
-!()[https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.1.png]\[14\]
+![](https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.1.png)\[14\]
 
 NIVEL SENSITIVO :Para determinarlo se realiza un examen de los puntos sensitivos clave dentro de los 28 dermatomas de cada lado del cuerpo (derecho e izquierdo) y es el  dermatoma más caudal con función normal para las sensaciones al pinchazo (discriminación entre punzante y romo) y al tacto fino. Puede ser diferente para el lado derecho y el izquierdo del cuerpo \[2\].
 
@@ -93,7 +93,7 @@ Se gradúa de 0-2 la sensibilidad al tacto fino y la sensibilidad al pinchazo
 * **1 \= Alterada**   
 * **2 \= Normal o intacta**
 
-!()[https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.2.png][4\]
+![](https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.2.png)[4\]
 
 Sensibilidad en segmentos sacros S4–S5:   Su ausencia es característica de una lesión medular completa (grado A de la escala ASIA)  \[4\].
 
@@ -146,7 +146,7 @@ Reflejos Patológicos: Se presentan como resultado de un daño del sistema nervi
 
 Signo de Babinsky: Al estimular el arco plantar lateral en dirección ascendente, el resultado obtenido será la dorsiflexión del hallux que simula la apertura de un abanico en el resto de los dedos. Si la respuesta es positiva indica lesión de la vía piramida \[12\].  
                                                        
-                                               !()[https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.3.png] **\[11\]**   
+![](https://github.com/JKmatayoshi/Git-Funbio/blob/6cf1ef0cef0083ad4e9e275f27e9ea55123133ca/Documentacion/Multimedia/E2.3.png) **\[11\]**   
 Vía piramidal 
 
 La vía piramidal es un conjunto de fibras nerviosas que se originan en la corteza cerebral, descienden a través de la corona radiada y la cápsula interna. Se divide en dos vías principales: la vía corticonuclear y la vía corticoespinal **\[25\]**.
