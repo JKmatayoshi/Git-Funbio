@@ -119,20 +119,20 @@ La elección adecuada de estas tecnologías debe basarse en una evaluación indi
 
 El modelo de utilidad presenta un **andador funcional para personas con lesiones medulares**, diseñado para facilitar la rehabilitación. Está compuesto por **dos cuerpos principales** conectados por **bielas fijas**, patas de apoyo **ajustables** con **placas antideslizantes**, y mecanismos que permiten **modificar la altura mediante motores**, lo que facilita subir y bajar escaleras. El andador también incluye una **placa de soporte giratoria** para que el usuario pueda descansar, así como un **sistema de ruedas y engranajes** que permite cambiar el modo de uso del dispositivo, posibilitando una **marcha funcional y versátil** \[26\]. 
 
-![][https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.png]
+![](https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.png)
 
 ***Neuroórtesis de agarre manual portátil y usable***          
 
 Dispositivo portátil de neuroórtesis que permite a personas con lesión medular cervical recuperar el control voluntario del agarre manual mediante una manga con electrodos, lectura de EMG y estimulación eléctrica funcional (EEF). El sistema se monta en una silla de ruedas e incluye un controlador con pantalla para el usuario \[27\].  
 
 
-![][https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.1.png]
+![](https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.1.png)
 
   ***Ortesis para caminar en caso de lesión de la médula espinal***
 
 El modelo de utilidad describe un aparato ortopédico para caminar destinado a personas con lesión medular. Está compuesto por soportes para las piernas conectados a una estructura que se fija al pecho y la cintura del usuario. Un mecanismo de conexión y pivote permite que el movimiento del tronco, especialmente desde la zona lumbar y los músculos iliopsoas, genere impulso para caminar. Este diseño facilita el movimiento, ahorra esfuerzo y proporciona estabilidad, siendo adecuado incluso para lesiones medulares altas \[28\]. 
 
-*![][https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.2.png]*
+*![](https://github.com/JKmatayoshi/Git-Funbio/blob/70e3321679e12d8d0bd456c70cc88d0037729631/Documentacion/Multimedia/E3.2.png)*
 
 * Enfoque Psicosociales  
   Lesión Medular (asesoramiento psicológico, red de apoyo social)
