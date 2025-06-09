@@ -29,14 +29,15 @@ Debido a su condición, permanece largos periodos sentada, lo que la pone en alt
 
 ## 🛠️Tecnologías utilizadas
 
+| Componentes         | Funcionamiento  |
 |--------------------|------------------------------|
-| Sensores FSR       | Detectan zonas con presión elevada en tiempo real |
+| Sensores FSR  | Detectan zonas con presión elevada en tiempo real |
 | Arduino Nano  | Controlador principal que procesa señales y ejecuta órdenes |
 | Válvulas solenoides  | Controlan el flujo de aire hacia celdas inflables |
 | Mini bomba de aire   | Infla o desinfla cámaras según necesidad detectada |
-| Pantalla LCD I2C    | Muestra alertas e información de presión en el sistema |
-| Celdas de aire (cámaras de bicicleta)   | Distribuyen la presión y se ajustan dinámicamente |
-| Capas de espuma viscoelástica | Proporcionan confort y soporte anatómico |
+| Pantalla LCD I2C  | Muestra alertas e información de presión en el sistema |
+| Celdas de aire (cámaras de bicicleta)  | Distribuyen la presión y se ajustan dinámicamente |
+| Capas de espuma viscoelástica  | Proporcionan confort y soporte anatómico |
 
 
 ## 👥Integrantes del equipo
