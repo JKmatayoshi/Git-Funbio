@@ -1,18 +1,19 @@
 # Proyecto de Ingeniería Biomédica - Tema: Lesiones medulares
 
 👩‍🔬 **Introducción**
+
 Somos un grupo de estudiantes del cuarto ciclo de la carrera de Ingeniería Biomédica comprometidos con el desarrollo de soluciones que mejoren la calidad de vida de personas con movilidad reducida. A través de este proyecto, aplicamos nuestros conocimientos en fisiología, biomecánica, electrónica y diseño centrado en el usuario para proponer un dispositivo preventivo, tecnológico y clínicamente viable.
 
 Nuestro trabajo se enmarca en un entorno de formación académica que promueve la innovación en salud, la responsabilidad social y el enfoque centrado en el paciente.
 
-## Descripción
+## 🧠Descripción
 
 Este proyecto nace a partir del análisis de un caso clínico real:
 Una paciente femenina de 60 años con diagnóstico de traumatismo medular a nivel C3, clasificación ASIA B, que presenta una movilidad severamente limitada del tronco y las extremidades inferiores, con rigidez en las manos que impide el agarre funcional. A pesar de ello, la paciente logra alimentarse por sí misma con ayuda postural.
 
 Debido a su condición, permanece largos periodos sentada, lo que la pone en alto riesgo de desarrollar úlceras por presión en zonas como los isquiones y el sacro, especialmente por la ausencia de cambios posturales espontáneos.
 
-## Objetivos
+## 🎯Objetivos
 
 -Diseñar e implementar un cojín inteligente de redistribución de presión, orientado a la prevención de escaras en usuarios con movilidad reducida.
 
@@ -22,17 +23,23 @@ Debido a su condición, permanece largos periodos sentada, lo que la pone en alt
 
 -Desarrollar una propuesta funcional y replicable, que combine prevención clínica con usabilidad y seguridad para adultos mayores o personas con parálisis parcial.
 
-## Tecnologías utilizadas
+## 🛠️Tecnologías utilizadas
 
 -Sensores FSR: Detectan zonas con presión elevada en tiempo real
+
 -Arduino Nano: Controlador principal que procesa señales y ejecuta órdenes
+
 -Válvulas solenoides: Controlan el flujo de aire hacia celdas inflables
+
 -Mini bomba de aire: Infla o desinfla cámaras según necesidad detectada
+
 -Pantalla LCD I2C: Muestra alertas e información de presión en el sistema
+
 -Celdas de aire (TPU): Distribuyen la presión y se ajustan dinámicamente
+
 -Capas de espuma viscoelástica: Proporcionan confort y soporte anatómico
 
-## Integrantes del equipo
+## 👥Integrantes del equipo
 
 | Integrante         | Rol                          |
 |--------------------|------------------------------|
