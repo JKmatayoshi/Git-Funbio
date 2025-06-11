@@ -75,6 +75,7 @@ void loop() {
 </code></pre>
 
 ### Explicación del código
+![page_7_img_1](https://github.com/user-attachments/assets/c71009e8-343f-4c14-b048-4448b4a994cc)
 
 Este programa implementa un sistema automático de regulación de presión en cuatro celdas neumáticas (A, B, C y D) utilizando sensores FSR402 conectados a un microcontrolador ESP32. Cada celda cuenta con su propia bomba de inflado y dos válvulas: una para inflar y otra para desinflar. El objetivo es detectar cuándo una celda experimenta una presión elevada, inflarla por un tiempo determinado y luego permitir su desinflado para evitar zonas de alta presión que puedan causar úlceras por presión.
 
@@ -87,6 +88,7 @@ Después del tiempo de inflado, el sistema apaga la bomba, cierra la válvula de
 Este enfoque ofrece un control automático, celda por celda, que responde únicamente a condiciones de presión elevadas. No se requieren entradas manuales ni comparaciones complejas entre zonas. El sistema está diseñado para ser simple pero efectivo, y puede adaptarse a integraciones más avanzadas como comunicación inalámbrica, visualización de datos o control remoto si se desea expandir su funcionalidad.
 
 ### Avance del prototipado electrónico (una sola celda)
+![page_8_img_1](https://github.com/user-attachments/assets/7a90527e-28ed-4114-8f04-1000b8a20e47)
 
 <pre><code class="language-c" style="overflow-x: auto; display: block; white-space: pre;">
 const int fsrPin = A0;
@@ -131,3 +133,5 @@ void loop() {
 </code></pre>
 
 *(Explicación técnica completa de este avance también se incluirá al continuar el archivo)...
+![page_8_img_2](https://github.com/user-attachments/assets/18e2370f-fee7-4b73-8dc6-c79c6989dc46)
+![page_10_img_1](https://github.com/user-attachments/assets/8ac82897-7bd4-4b39-bab3-8fd4255d8e33)
