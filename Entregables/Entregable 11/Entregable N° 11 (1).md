@@ -37,6 +37,7 @@ Imagen 4\. Tiempo 3 – Postura corregida
 Después de la acción del sistema, la presión vuelve a estar dentro del rango adecuado. El paciente queda bien posicionado y el sistema regresa a su estado inicial de reposo.
 
 Avance de Fabricación Digital
+
 ![entregable 11-5](https://github.com/user-attachments/assets/5930ca29-7793-4b27-8d05-2a2d29658db0)
 
 ![entregable 11-6](https://github.com/user-attachments/assets/1bbb34eb-4cd1-495c-96d2-a68fc29e481e)
