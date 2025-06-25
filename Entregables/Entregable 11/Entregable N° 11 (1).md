@@ -38,11 +38,11 @@ Después de la acción del sistema, la presión vuelve a estar dentro del rango 
 
 Avance de Fabricación Digital
 ![entregable 11-5](https://github.com/user-attachments/assets/5930ca29-7793-4b27-8d05-2a2d29658db0)
-![entregable 11-5](https://github.com/user-attachments/assets/5930ca29-7793-4b27-8d05-2a2d29658db0)
+
 ![entregable 11-6](https://github.com/user-attachments/assets/1bbb34eb-4cd1-495c-96d2-a68fc29e481e)
-![entregable 11-6](https://github.com/user-attachments/assets/1bbb34eb-4cd1-495c-96d2-a68fc29e481e)
+
 ![entregable 11-7](https://github.com/user-attachments/assets/46e12615-f445-4be9-b85f-317c052a51b2)
-![entregable 11-7](https://github.com/user-attachments/assets/46e12615-f445-4be9-b85f-317c052a51b2)
+
 ![entregable 11-8](https://github.com/user-attachments/assets/be52a5fc-b1c6-4241-a745-cb70e7425fd9)
-![entregable 11-8](https://github.com/user-attachments/assets/be52a5fc-b1c6-4241-a745-cb70e7425fd9)
+
 
